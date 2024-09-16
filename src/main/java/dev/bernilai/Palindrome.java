@@ -1,4 +1,4 @@
-package dev.Bernilai;
+package dev.bernilai;
 
 import java.util.Scanner;
 
